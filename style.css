@@ -1,7 +1,10 @@
-body {
+#intro  {
 margin: 5px;
 padding: 5px;
 background-color: blue;
+justify-content: left;
+width: 100px;
+height: 150px;
 }
 
 #icon {
