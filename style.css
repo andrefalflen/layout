@@ -102,6 +102,11 @@ background-color: rgb(43, 80, 6);
 .cancelado {
     background-color: #dc3545;
 }
+
+    main {
+
+    display: flex;
+    }
 #terceiro {
     background-color: rgb(147, 224, 238);
     width: 1000px;
@@ -136,4 +141,13 @@ color: #007bff;
 
     margin-left: 500px;
     
+}
+
+#card-for {
+  background-color: rgb(147, 224, 238);
+    width: 420px;
+    padding: 68px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    margin-left: 30px;
 }
