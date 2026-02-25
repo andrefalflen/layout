@@ -146,10 +146,11 @@ color: #2b239b;
 }
 
 #card-for {
-  background-color: rgb(147, 224, 238);
+  background-color: rgb(203, 217, 226);
     width: 420px;
     padding: 68px;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
     margin-left: 30px;
+    display:flex;
 }
