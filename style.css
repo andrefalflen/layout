@@ -49,7 +49,7 @@ main{
 .card-status {
     background-color: rgb(147, 224, 238);
     width: 420px;
-    padding: 20px;
+    padding: 53px;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
