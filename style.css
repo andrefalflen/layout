@@ -105,8 +105,7 @@ background-color: rgb(43, 80, 6);
 #terceiro {
     background-color: rgb(147, 224, 238);
     width: 1000px;
-    height: 250px;
-    display: flex;
+    height: 300px;
     align-items: center;
     justify-content: space-between;
     border-radius: 10px;
@@ -115,7 +114,26 @@ background-color: rgb(43, 80, 6);
     padding: 20px;
 }
 .imagem3 { 
+width: 150px;
+height: 200px;
 
-width: px;
+display:flex ;
+padding: 50px;
+margin-left: 0px;
 
+
+
+}
+
+.texto3 {
+display: flex;
+margin-left: 30px;
+color: #007bff;
+
+}
+
+.texto3 p {
+
+    margin-left: 500px;
+    
 }
