@@ -101,3 +101,15 @@ background-color: rgb(43, 80, 6);
 .cancelado {
     background-color: #dc3545;
 }
+#terceiro {
+    background-color: rgb(147, 224, 238);
+    width: 1000px;
+    height: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+
+
+    padding: 20px;
+}
